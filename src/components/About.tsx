@@ -12,14 +12,13 @@ export default () => {
         </Avatar>
 
         <div className="flex flex-col items-start gap-2">
-          <h1 className="font-medium text-lg lg:text-xl">flamrdevs</h1>
-          <h2 className="font-medium text-2xl lg:text-3xl">UI/UX designer</h2>
+          <h1 className="font-medium text-lg lg:text-xl">Bruce(HuHeXian)</h1>
+          <h2 className="font-medium text-2xl lg:text-3xl">Human Resources</h2>
         </div>
       </div>
 
       <div>
-        I am a UI/UX designer from Indonesia, specializing in creating user-centric and visually appealing digital experiences. With a focus
-        on seamless and enjoyable interactions, I aim to enhance the overall user experience through strategic design solutions.
+        2024届毕业生，人力资源从业者，从2018年开始写<a href="https://yinji.org">博客</a>，在网络上记录生活。我有很多个标签，数码发烧友、摄影爱好者、blogger、WordPress 爱好者……
       </div>
 
       <div className="flex self-stretch justify-end">
