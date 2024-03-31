@@ -7,7 +7,7 @@ export default () => {
   return (
     <div className="flex flex-col items-start gap-6 lg:gap-8 px-3 lg:px-6 py-4">
       <div className="flex flex-row items-center gap-4">
-        <Avatar src="/favicon.svg" alt="profile-picture">
+        <Avatar src="https://huhexian.s3.bitiful.net/pic/2024/03/488713009c150d641a1977ae3fb45cc7.webp" alt="profile-picture">
           <Lucide.IconUser className="size-2/3" />
         </Avatar>
 
