@@ -21,12 +21,7 @@ export default () => {
         2024届毕业生，人力资源从业者，从2018年开始写<a href="https://yinji.org">博客</a>，在网络上记录生活。我有很多个标签，数码发烧友、摄影爱好者、blogger、WordPress 爱好者……
       </div>
 
-      <div className="flex self-stretch justify-end">
-        <Button as="a" href="https://github.com/flamrdevs/astrolinkt" target="_blank" aria-label="GitHub">
-          <Simple.IconGitHub />
-          GitHub
-        </Button>
-      </div>
+      
     </div>
   );
 };
